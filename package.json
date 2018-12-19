@@ -1,0 +1,20 @@
+{
+  "name": "employee-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhigh1/Employee-Finder.git"
+  },
+  "author": "Michael High",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhigh1/Employee-Finder/issues"
+  },
+  "homepage": "https://github.com/mhigh1/Employee-Finder#readme"
+}
